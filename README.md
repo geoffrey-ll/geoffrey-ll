@@ -1,5 +1,6 @@
 <h1 align="center">Geoffrey Llopis - Développeur Python</h1>
 
+<br/>
 <h3 align="left">Langages et outils avec lesquels je code :</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -16,7 +17,7 @@
   <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-plain.svg" alt="pycharm" width="40" height="40"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 
-
+<br/>
 <h3 align="left">Statistiques GitHub</h3>
  <br/>
     <a href="https://github.com/geoffrey-ll/github-readme-stats"><img alt="geoffrey-ll's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=geoffrey-ll&show_icons=true&count_private=true" /></a>
