@@ -1,7 +1,7 @@
 <h1 align="center">Geoffrey Llopis - Développeur Python</h1>
 
 <br/>
-<h3 align="left">Langages et outils avec lesquels je code :</h3>
+<h3 align="left">Technologies</h3>
 <br/>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
