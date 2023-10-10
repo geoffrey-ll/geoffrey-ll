@@ -15,3 +15,11 @@
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-plain.svg" alt="pycharm" width="40" height="40"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
+
+
+## 📊 My Github Stats
+
+ <br/>
+    <a href="https://github.com/geoffrey-ll/github-readme-stats"><img alt="geoffrey-ll's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=geoffrey-ll&show_icons=true&count_private=true" /></a>
+  <a href="https://github.com/geoffrey-ll/github-readme-stats"><img alt="geoffrey-ll's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geoffrey-ll&layout=compact" /></a>
+<br/>
