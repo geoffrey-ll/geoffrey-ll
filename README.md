@@ -1,6 +1,6 @@
 <h1 align="center">Geoffrey Llopis - Développeur Python</h1>
 
-<h3 align="center">Langages et outils avec lesquels je code :</h3>
+<h3 align="left">Langages et outils avec lesquels je code :</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
@@ -17,9 +17,7 @@
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 
 
-<h3 align="center">Statistiques GitHub</h3>
-
-## Statistiques GitHub
+<h3 align="left">Statistiques GitHub</h3>
  <br/>
     <a href="https://github.com/geoffrey-ll/github-readme-stats"><img alt="geoffrey-ll's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=geoffrey-ll&show_icons=true&count_private=true" /></a>
   <a href="https://github.com/geoffrey-ll/github-readme-stats"><img alt="geoffrey-ll's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geoffrey-ll&layout=compact" /></a>
